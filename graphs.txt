@@ -1,0 +1,10 @@
+1.Clone Graph(leetcode)
+2.Kosaraju (scc)  tc:o(V+E) (Geeks for geeks)
+3.Minimum Spanning Tree
+4.Prims algo(geeks for geeks)
+5.Dijkstras algo(geeks for geeks)-shortest path from src to every node
+TC:o((V+E)logV),o(V+E)  nad it works for the positive edge wts
+6.BellmanFord
+7.All paths from source to target
+8.No of islands
+9.Flood Fill

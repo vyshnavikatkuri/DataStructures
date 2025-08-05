@@ -1,0 +1,10 @@
+maximum no.of pieces can be cut in a cake using n cuts
+formula=(n^2+n+2)/2;
+This is derived from a mathematical formula for the maximum number of regions a circle can be divided into using N straight lines, assuming:
+
+No two cuts are parallel
+
+No three cuts intersect at the same point
+
+Every new cut intersects all the previous cuts
+

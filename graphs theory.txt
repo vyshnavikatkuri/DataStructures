@@ -1,0 +1,2 @@
+Strongly Connected Component:SCC is a component where every vertex in a component can be reached from every other vertex.
+This components is called scc.
